@@ -66,11 +66,11 @@ kikifolio/
 
 If you'd like to collaborate, hire me, or just say hi:
 
-Email: khiarayrazzo@gmail.com
+Email: khiararazzolini@gmail.com
 
 GitHub: https://github.com/razzolinik
 
-LinkedIn: https://linkedin.com/in/khiararazzolini
+LinkedIn: https://linkedin.com/in/razzolinik
 
 ## ⭐ Contributing
 
